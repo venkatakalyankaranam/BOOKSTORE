@@ -1,0 +1,1 @@
+using bookstore.srv.BookStoreSRV as service from '../../srv/booksrv';
